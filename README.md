@@ -61,6 +61,8 @@ flowchart LR
     RTMP --> Mobil
 
 ```
+<img width="932" height="557" alt="image" src="https://github.com/user-attachments/assets/3858346a-5872-424f-a00a-42381007b9a9" />
+
 
 OpenCV ve FFmpeg ile gerçek zamanlı görüntü işleme pipeline’ı geliştirdim
 
