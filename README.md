@@ -5,6 +5,7 @@
 Bu proje, fiziksel mağazalara gelen müşterilerin demografik özelliklerini (yaş ve cinsiyet) analiz eden yapay zekâ tabanlı bir sistemdir. Kamera görüntüleri gerçek zamanlı işlenerek derin öğrenme modelleri ile tahmin yapılır ve sonuçlar yönetim paneli üzerinden görselleştirilir.
 
 ## Projenin Amacı
+<img width="932" height="557" alt="image" src="https://github.com/user-attachments/assets/3858346a-5872-424f-a00a-42381007b9a9" />
 
 Gerçek zamanlı yüz tespiti yaparak bireylerin yaş ve cinsiyetini tahmin etmek
 
@@ -31,6 +32,8 @@ Backend: Spring Boot (Java, REST API), güvenli veri kaydı
 Veritabanı: PostgreSQL, özel tablo ve ER diyagram tasarımları
 
 Dashboard: Grafik tabanlı raporlar, zaman bazlı analiz ve filtreleme
+
+<img width="861" height="394" alt="image" src="https://github.com/user-attachments/assets/152257d6-a679-40ee-98d7-696c332bba69" />
 
 ## Kullanılan Araçlar ve Teknolojiler
 
@@ -61,7 +64,7 @@ flowchart LR
     RTMP --> Mobil
 
 ```
-<img width="932" height="557" alt="image" src="https://github.com/user-attachments/assets/3858346a-5872-424f-a00a-42381007b9a9" />
+
 
 
 OpenCV ve FFmpeg ile gerçek zamanlı görüntü işleme pipeline’ı geliştirdim
@@ -74,11 +77,11 @@ PostgreSQL üzerinde ER diyagramı ve tablo tasarımları yaptım
 
 Yönetim panelinde grafik tabanlı raporlama modülleri geliştirdim
 
+
+
 ## Akademik Bilgi
 
 Bu proje, Düzce Üniversitesi Bilgisayar Mühendisliği Bitirme Tezi (2025) kapsamında hazırlanmıştır.
-
-Hazırlayan: Muhammed Ali Türkan
 
 Danışman: Doç. Dr. Abdullah Talha Kabakuş
 
@@ -91,4 +94,12 @@ Perakende: Müşteri profili çıkarma, kampanya zamanlaması, ürün yerleşimi
 Güvenlik: Yaş ve cinsiyet tabanlı giriş kontrol sistemleri
 
 Pazarlama: Demografi odaklı reklam hedefleme
+
+
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5fb8d099-9ffc-4ca5-9839-fe9d4bc79648" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2aa3cdf0-704d-4af9-8b9c-ecbd1d0f41af" />
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/26940657-f79d-484a-bac4-f969d2975e47" />
 
