@@ -84,7 +84,7 @@ Danışman: Doç. Dr. Abdullah Talha Kabakuş
 
 Anahtar Kelimeler: Görüntü işleme, Derin öğrenme, Cinsiyet tespiti, Yaş tahmini, Müşteri analizi, Spring Boot
 
-Örnek Kullanım Senaryoları
+## Örnek Kullanım Senaryoları
 
 Perakende: Müşteri profili çıkarma, kampanya zamanlaması, ürün yerleşimi optimizasyonu
 
