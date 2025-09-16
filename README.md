@@ -13,7 +13,8 @@ Yoğunluk takibi ile kampanya zamanlaması ve ürün yerleşimi optimizasyonu ya
 
 Perakende sektöründe veri odaklı karar alma süreçlerine katkı sağlamak
 
-<img width="932" alt="image" src="https://github.com/user-attachments/assets/3858346a-5872-424f-a00a-42381007b9a9" />
+![api](https://github.com/user-attachments/assets/569eb0f4-bec1-47f8-bc39-b2663e4504cc)
+
 
 ## Teknik Özellikler
 
